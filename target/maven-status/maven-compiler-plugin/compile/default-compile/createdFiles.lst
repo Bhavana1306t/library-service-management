@@ -1,0 +1,12 @@
+com\library\repository\BookRepository.class
+com\library\entity\BookAuthorDTO.class
+com\library\service\BookService.class
+com\library\controller\AuthorController.class
+com\library\repository\AuthorRepository.class
+com\library\LibraryApplication.class
+com\library\DataInitializer.class
+com\library\entity\Author.class
+com\library\controller\BookController.class
+com\library\controller\HomeController.class
+com\library\entity\Book.class
+com\library\service\AuthorService.class
